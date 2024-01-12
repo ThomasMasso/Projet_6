@@ -15,28 +15,37 @@
 *  Construire le parcours utilisateur
   
   ○ Modèle d'utilisateur
+  
   ○ Parcours utilisateur
+  
   ○ Contrôleur d'utilisateur.
   
   L'utilisateur est en mesure d'effectuer les opérations suivantes :
+  
   ○ Créer un compte
+  
   ○ Se connecter et disposer d'un token valide
   
 *  Démarrer le middleware
   
   ○ Ajout de multer pour les images
+  
   ○ Ajout d’authorize pour la validation des tokens
 
 *  Construire la route Sauce de l’API
   
   ○ Modèle Sauce
+  
   ○ Route Sauce
+  
   ○ Contrôleur Sauce
   
   L'utilisateur est en mesure d'effectuer les opérations suivantes :
   
   ○ Ajouter une nouvelle sauce
+  
   ○ Supprimer une sauce
+  
   ○ Voir toutes les sauces
   
   L’utilisateur peut liker ou ne pas aimer une sauce
