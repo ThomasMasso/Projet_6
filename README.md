@@ -1,6 +1,6 @@
 # Projet étudiant 6
 
-## Construisez une API sécurisée pour une application d'avis gastronomiquesS
+## Construisez une API sécurisée pour une application d'avis gastronomiques
 
 **Obectif** : développer une application web de critique des sauces piquantes appelée « Hot Takes » .
 
